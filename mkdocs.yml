@@ -1,0 +1,81 @@
+# Repository
+repo_name: FundacaoJoaoPinheiro/estatpublicas
+repo_url: https://github.com/FundacaoJoaoPinheiro/estatpublicas
+edit_uri: edit/main/docs/
+
+# Project information
+site_name: EstatPúblicas
+site_url: https://sitename.example
+site_author: Grupo de Pesquisa em Estatísticas Públicas
+site_description: >-
+  Pesquisa na produção de estatísticas
+
+
+
+nav:
+  - Início: index.md
+  - Pesquisadores: pesquisadores/index.md
+  - Projetos: 
+    - IDHM: projetos/idhm/index.md
+    - IMRS: projetos/imrs/index.md
+    - FJP Dados: projetos/fjpdados/index.md
+    - Transformação digital: projetos/td/index.md
+    - Observatório do Trabalho de Minas Gerais: projetos/otmg/index.md
+    - Hub-MG: projetos/hub/index.md
+  - Publicações: https://www.ead.planejamento.mg.gov.br/course/view.php?id=98
+  - Eventos: https://www.ead.planejamento.mg.gov.br/course/view.php?id=98
+  - Blog: blog/index.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theme:
+  name: material
+  font:
+    text: Lato
+    code: Red Hat Mono
+  icon:
+    logo: fontawesome/solid/chart-line
+  favicon: assets/estatpublicas_logo.ico
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: red
+      accent: amber
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: red
+      accent: pink
+extra:
+  favicon: images/favicon.ico
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-repo
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/your-handle
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+

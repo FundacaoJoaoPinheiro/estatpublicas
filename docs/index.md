@@ -88,14 +88,22 @@
     margin-top: 2rem;
   }
 
-  .contact-card {
-    background-color: #e3f2fd;
+.contact-card {
+    background-color: rgb(123, 128, 131); /* Cor de fundo do cartão */
     padding: 1rem;
     border-radius: 10px;
     flex: 1 1 45%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
+    color: #ffffff; /* Cor do texto para garantir legibilidade no modo escuro */
+}
 
+.contact-card b {
+    color: #ffffff; /* Cor do texto em negrito */
+}
+
+.contact-card i {
+    color: #e0e0e0; /* Cor do texto em itálico (e-mail) */
+}
   .footer {
     text-align: center;
     margin-top: 2rem;

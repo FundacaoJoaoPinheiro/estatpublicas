@@ -10,45 +10,21 @@ site_author: Grupo de Pesquisa em Estatísticas Públicas
 site_description: >-
   Pesquisa na produção de estatísticas
 
-
-
 nav:
   - Início: index.md
   - Pesquisadores: pesquisadores/index.md
-  - Projetos: 
-    - IDHM: projetos/idhm/index.md
-    - IMRS: projetos/imrs/index.md
-    - FJP Dados: projetos/fjpdados/index.md
-    - Transformação digital: projetos/td/index.md
-    - Observatório do Trabalho de Minas Gerais: projetos/otmg/index.md
-    - Hub-MG: projetos/hub/index.md
-  - Publicações: https://www.ead.planejamento.mg.gov.br/course/view.php?id=98
-  - Eventos: https://www.ead.planejamento.mg.gov.br/course/view.php?id=98
-  - Blog: blog/index.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - Projetos: projetos/index.md
+  - Publicações: http://repositorio.fjp.mg.gov.br/handle/123456789/4255
 
 theme:
   name: material
+  language: pt
   font:
     text: Lato
     code: Red Hat Mono
   icon:
     logo: fontawesome/solid/chart-line
-  favicon: assets/estatpublicas_logo.ico
+  favicon: assets/red_bar_chart_icon.ico
   palette:
     # Dark Mode
     - scheme: slate
@@ -69,13 +45,12 @@ extra:
   favicon: images/favicon.ico
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-repo
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/your-handle
+      link: https://github.com/FundacaoJoaoPinheiro
+    - icon: fontawesome/brands/r-project
+      link: https://rpubs.com/fjp
 
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-

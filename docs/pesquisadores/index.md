@@ -14,7 +14,7 @@ Para mais detalhes sobre o grupo, visite nossa página no Diretório de Grupos d
 ### **Líder do Grupo**
 - **Caio César Soares Gonçalves**   <a href="http://lattes.cnpq.br/6829577347369187"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0000-0002-3366-7560"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Doutor em População, Território e Estatística Pública - Escola Nacional de Ciências Estatísticas, IBGE.  
+  Doutor em População, Território e Estatística Pública pela Escola Nacional de Ciências Estatísticas, Ence/IBGE.  
   **E-mail**: caio.goncalves@fjp.mg.gov.br
 
 ### **Vice-Líder**
@@ -28,7 +28,7 @@ Para mais detalhes sobre o grupo, visite nossa página no Diretório de Grupos d
 ### **Pesquisadores da FJP**
 - **Cláudia Júlia Guimarães Horta**   <a href="http://lattes.cnpq.br/0316177233279799"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0000-0002-3360-8202"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Doutora em Demografia, Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, Brasil.  
+  Doutora em Demografia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: claudia.horta@fjp.mg.gov.br
 
 - **Cláudio Gomes da Costa**  <a href="http://lattes.cnpq.br/9301758326793098"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
@@ -38,7 +38,7 @@ Para mais detalhes sobre o grupo, visite nossa página no Diretório de Grupos d
 
 - **Denise Helena França Marques**  <a href="http://lattes.cnpq.br/9109832057473345"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0000-0001-7002-4794"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Doutora em Demografia, Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, Brasil.  
+  Doutora em Demografia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: denise.maia@fjp.mg.gov.br
 
 - **Ester Carneiro do Couto Santos**  <a href="http://lattes.cnpq.br/5751517347902468"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
@@ -53,12 +53,12 @@ Para mais detalhes sobre o grupo, visite nossa página no Diretório de Grupos d
 
 - **Helena Teixeira Magalhães Soares**  <a href="http://lattes.cnpq.br/7168515925393318"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0000-0002-2696-5789"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Mestre em Administração.  
+  Doutoranda em Demografia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.
   **E-mail**: helena.soares@fjp.mg.gov.br
 
 - **Igor Augusto Tadeu de Souza**  <a href="http://lattes.cnpq.br/2307714470988099"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0009-0003-2969-6179"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Graduado em Sistemas de Informação, Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil.  
+  Graduado em Sistemas de Informação pela Pontifícia Universidade Católica de Minas Gerais, PUC Minas. 
   **E-mail**: igor.souza@fjp.mg.gov.br
 
 - **Luiz Carlos Moutinho Pataca**  <a href="http://lattes.cnpq.br/7066103083262527"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
@@ -84,59 +84,63 @@ Para mais detalhes sobre o grupo, visite nossa página no Diretório de Grupos d
 
 ### **Bolsistas FJP**
 - **Marcos Damasceno**  <a href="http://lattes.cnpq.br/0564667459224666"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Doutorando em Demografia, Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, Brasil.  
+  Doutorando em Demografia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: marcos.damasceno@fjp.mg.gov.br
 
 - **Priscila Garcia Maia**  <a href="http://lattes.cnpq.br/0393632322314373"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Mestranda em Saúde Pública, UFMG.  
+  Mestranda em Saúde Pública pela Universidade Federal de Minas Gerais, UFMG. 
   **E-mail**: priscila.maia@fjp.mg.gov.br
 
 - **Túlio Francisco Vieira de Souza**  <a href="http://lattes.cnpq.br/0308552105643532"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Graduando em Ciências Econômicas, PUC Minas.  
+  Graduando em Ciências Econômicas pela Pontifícia Universidade Católitca de Minas Gerais, PUC Minas.  
   **E-mail**: tulio.souza@fjp.mg.gov.br
 
 ### **Bolsistas Fapemig**
 - **Damien Philippe Antoine Franca Huchet**  <a href="http://lattes.cnpq.br/9339184853178375"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Mestre em Demografia, Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, Brasil.  
+  Mestre em Demografia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: damien.huchet@fjp.mg.gov.br
 
+- **Daniela Francione Teixeira**  <a href="http://lattes.cnpq.br/3181616752383602"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
+  Graduada em Ciências Sociais pela Universidade Federal de Minas Gerais, UFMG.   
+  **E-mail**: daniela.francione@fjp.mg.gov.br
+
 - **Erick da Conceição Amorim**  <a href="http://lattes.cnpq.br/3225417947229827"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Doutor em Estatística, UFMG.  
+  Doutor em Estatística pela Universidade Federal de Minas Gerais, UFMG.  
   **E-mail**: erick.amorim@fjp.mg.gov.br
 
 - **Ítalo do Nascimento Mendonça**  <a href="http://lattes.cnpq.br/4552086415751870"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Doutorando em Economia no Instituto de Economia e Relações Internacionais da Universidade Federal de Uberlândia.  
+  Doutorando em Economia pelo Instituto de Economia e Relações Internacionais da Universidade Federal de Uberlândia, UFU. 
   **E-mail**: italo.mendonca@fjp.mg.gov.br
 
 - **João Erick Alexandre Barbosa Costa**  <a href="http://lattes.cnpq.br/8033260273480020"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0000-0003-4851-3799"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Doutorando em Economia pela Universidade Federal de Juiz de Fora.  
+  Doutorando em Economia pela Universidade Federal de Juiz de Fora, UFJF.  
   **E-mail**: joao.costa@fjp.mg.gov.br
 
 - **João Paulo Gonzaga Garcia**  <a href="http://lattes.cnpq.br/7017644368410645"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Mestrando em Economia pelo CEDEPLAR.  
+  Mestrando em Economia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: joao.garcia@fjp.mg.gov.br
 
 - **Jordana Ferreira da Silva**  <a href="http://lattes.cnpq.br/3856902405186971"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0000-0001-8506-0501"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Doutora em Economia pelo Centro de Desenvolvimento e Planejamento Regional.  
+  Doutora em Economia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: jordana.silva@fjp.mg.gov.br
 
 - **Lídia Magyar**  <a href="http://lattes.cnpq.br/5270797910239461"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Doutoranda em Economia pela Universidade Federal de Minas Gerais.  
+  Doutoranda em Economia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: lidia.magyar@fjp.mg.gov.br
 
 - **Marcelo Castro Ávila**  <a href="http://lattes.cnpq.br/9805261818374770"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>
   <a href="https://orcid.org/0000-0003-3449-8073"><img src="assets/orcid-icon.svg" alt="ORCID" width="24" height="24"></a>  
-  Mestre em Economia pela UNIFAL.  
+  Mestre em Economia pela Universidade Federal de Alfenas, UNIFAL.  
   **E-mail**: marcelo.avila@fjp.mg.gov.br
 
 - **Marcos José Freddi Bassoli**  <a href="http://lattes.cnpq.br/6221503495311109"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Mestrando em Demografia no CEDEPLAR/UFMG.  
+  Mestrando em Demografia pelo Centro de Desenvolvimento e Planejamento Regional, CEDEPLAR, UFMG.  
   **E-mail**: marcos.bassoli@fjp.mg.gov.br
 
 - **Paulo Roberto Betbeder Gonçalves**  <a href="http://lattes.cnpq.br/7495532284955897"><img src="assets/lattes-icon.svg" alt="Lattes" width="24" height="24"></a>  
-  Mestre em Economia Aplicada pela Faculdade de Economia da Universidade Federal de Juiz de Fora.  
+  Mestre em Economia Aplicada pela Universidade Federal de Juiz de Fora, UFJF.  
   **E-mail**: paulo.goncalves@fjp.mg.gov.br
 
 ### **Estudantes EG/FJP**
